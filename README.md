@@ -7,4 +7,4 @@ I have used the external tool https://wordstotime.com/ to determine the reading 
 
 <img width="872" alt="image" src="https://github.com/Arian-Ott/twitch-data-analysis/assets/88984301/7cfda859-35ff-46dc-b1bd-af43ccf77c29">
 
-In case something is not working, do not hesitate contacting me
+In case something is not working, do not hesitate contacting me. All latest commits are signed by my personal  RSA4096 GPG Key. There should be no doubt that I uploaded the files.
